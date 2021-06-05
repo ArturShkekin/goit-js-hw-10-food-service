@@ -1,10 +1,2 @@
-import "./menu.json";
-
-
-
-
-
-const Theme = {
-  LIGHT: 'light-theme',
-  DARK: 'dark-theme',
-};
+import './sass/main.scss';
+console.log("Привет");
